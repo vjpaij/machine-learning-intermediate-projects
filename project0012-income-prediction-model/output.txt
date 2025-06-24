@@ -1,0 +1,3 @@
+Predicted Incomes: [ 11049.93  88497.1  117103.6 ]
+Mean Squared Error: 643169720.91
+R² Score: -0.48
