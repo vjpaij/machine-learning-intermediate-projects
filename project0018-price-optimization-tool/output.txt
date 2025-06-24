@@ -1,0 +1,2 @@
+Optimal Price: $30.45
+Expected Revenue at Optimal Price: $16092.38
