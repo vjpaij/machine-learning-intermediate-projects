@@ -1,0 +1,13 @@
+Classification Report:
+
+              precision    recall  f1-score   support
+
+  Appliances       0.00      0.00      0.00       1.0
+ Electronics       0.00      0.00      0.00       0.0
+    Footwear       0.00      0.00      0.00       0.0
+   Furniture       0.00      0.00      0.00       2.0
+
+    accuracy                           0.00       3.0
+   macro avg       0.00      0.00      0.00       3.0
+weighted avg       0.00      0.00      0.00       3.0
+
