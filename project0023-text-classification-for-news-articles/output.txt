@@ -1,0 +1,14 @@
+Classification Report:
+
+              precision    recall  f1-score   support
+
+     Finance       0.00      0.00      0.00       1.0
+    Politics       0.00      0.00      0.00       1.0
+     Science       0.00      0.00      0.00       0.0
+      Sports       0.00      0.00      0.00       1.0
+  Technology       0.00      0.00      0.00       0.0
+
+    accuracy                           0.00       3.0
+   macro avg       0.00      0.00      0.00       3.0
+weighted avg       0.00      0.00      0.00       3.0
+
