@@ -1,0 +1,6 @@
+
+📊 Association Rules (Market Basket):
+
+If a customer buys [butter], they are likely to buy [bread] (support: 0.40, confidence: 0.67, lift: 0.95)
+If a customer buys [jam], they are likely to buy [bread] (support: 0.30, confidence: 0.75, lift: 1.07)
+If a customer buys [milk], they are likely to buy [bread] (support: 0.40, confidence: 0.67, lift: 0.95)
