@@ -1,0 +1,8 @@
+
+Recommendations for: 'Learn Python programming with hands-on projects and challenges.'
+
+Score: 0.14 | Data visualization using Matplotlib and Seaborn in Python.
+Score: 0.00 | Deploying machine learning models using FastAPI and Streamlit.
+Score: 0.00 | Master SQL for data analysis and reporting in modern systems.
+Score: 0.00 | Natural Language Processing basics with spaCy and NLTK.
+Score: 0.00 | Getting started with Django: Build your first web application.
