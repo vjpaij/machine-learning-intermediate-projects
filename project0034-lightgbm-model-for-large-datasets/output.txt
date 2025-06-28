@@ -1,0 +1,14 @@
+Training until validation scores don't improve for 10 rounds
+Did not meet early stopping. Best iteration is:
+[100]	valid_0's binary_logloss: 0.229231
+Classification Report:
+
+              precision    recall  f1-score   support
+
+           0       0.93      0.94      0.93      5000
+           1       0.93      0.93      0.93      5000
+
+    accuracy                           0.93     10000
+   macro avg       0.93      0.93      0.93     10000
+weighted avg       0.93      0.93      0.93     10000
+
