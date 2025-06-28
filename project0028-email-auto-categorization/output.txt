@@ -1,0 +1,13 @@
+Classification Report:
+
+              precision    recall  f1-score   support
+
+    Personal       0.00      0.00      0.00       0.0
+  Promotions       0.00      0.00      0.00       2.0
+        Spam       0.00      0.00      0.00       1.0
+        Work       0.00      0.00      0.00       0.0
+
+    accuracy                           0.00       3.0
+   macro avg       0.00      0.00      0.00       3.0
+weighted avg       0.00      0.00      0.00       3.0
+
