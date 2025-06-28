@@ -1,0 +1,17 @@
+Top Resume Matches:
+
+Resume 1 - Similarity Score: 0.24
+Experienced Python developer with strong background in Django and web APIs. Built scalable applications.
+------------------------------------------------------------
+Resume 2 - Similarity Score: 0.23
+Data scientist skilled in Python, pandas, and machine learning. Worked on several classification problems.
+------------------------------------------------------------
+Resume 5 - Similarity Score: 0.22
+Machine learning enthusiast with academic projects in scikit-learn and deep learning using PyTorch.
+------------------------------------------------------------
+Resume 3 - Similarity Score: 0.10
+Frontend developer with React and JavaScript expertise. Limited experience with backend systems.
+------------------------------------------------------------
+Resume 4 - Similarity Score: 0.09
+Software engineer familiar with Java and Spring Boot. Looking to switch to data science roles.
+------------------------------------------------------------
