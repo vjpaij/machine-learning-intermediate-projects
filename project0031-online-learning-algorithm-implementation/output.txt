@@ -1,0 +1,12 @@
+Training with online batches...
+
+Batch 1/7 Accuracy: 0.90
+Batch 2/7 Accuracy: 0.91
+Batch 3/7 Accuracy: 0.84
+Batch 4/7 Accuracy: 0.83
+Batch 5/7 Accuracy: 0.81
+Batch 6/7 Accuracy: 0.65
+Batch 7/7 Accuracy: 0.86
+
+Final Evaluation on Test Data:
+Accuracy: 0.81
